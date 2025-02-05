@@ -6,7 +6,9 @@
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-n": "^16.6.2",
     "eslint-plugin-promise": "^6.6.0",
-    "standard": "^17.1.2",
+    "standard": "^17.1.2"
+  },
+  "devDependencies": {
     "vite": "^6.1.0"
   }
 }
